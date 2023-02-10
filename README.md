@@ -2,7 +2,7 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/gauravguptagtm/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/gauravguptagtm)
-[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://techq.medium.com)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white&color=1CA2F1)](https://techq.medium.com)
 
 - 🔭 I’m currently working on @cybervate
 - 🌱 I’m currently learning Django, ReactJS 
@@ -26,7 +26,7 @@
 <a href="https://github.com/gauravguptagtm">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauravguptagtm&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
+
 <a href="https://github.com/gauravguptagtm">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=gauravguptagtm&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Martin's GitHub Stats" />
 </a>
@@ -41,8 +41,8 @@
 ![](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![](https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Code-MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -73,8 +73,10 @@
 </details>
 
 <br>
+
 ## Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=gauravguptagtm)
+
 <br>
 
 ## Trophies
