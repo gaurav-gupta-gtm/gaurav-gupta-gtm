@@ -11,6 +11,11 @@
 - 📝 I write articles on [Medium](techq.medium.com)
 - ⚡ Fun fact: I also run a Motivational Blog[Saaltysugar][Saaltysugar]
 
+
+[LinkedIn]: https://linkedin.com/in/gauravguptagtm
+[Saaltysugar]: https://saaltysugar.com
+[Twitter]: https://twitter.com/gauravguptagtm
+
 ## Profile view
 ![](https://komarev.com/ghpvc/?username=gauravguptagtm)
 
@@ -76,6 +81,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=gauravguptagtm)
 
 <br>
-[LinkedIn]: https://linkedin.com/in/gauravguptagtm
-[Saaltysugar]: https://saaltysugar.com
-[Twitter]: https://twitter.com/gauravguptagtm
+
