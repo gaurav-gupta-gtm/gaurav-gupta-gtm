@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Django, ReactJS 
 - 💬 Ask me about DevOps, AWS, AI, ML
 - 📫 Connect with me on [LinkedIn][LinkedIN]
-- 📝 I write articles on [Medium](techq.medium.com)
+- 📝 I write articles on [Medium](https://techq.medium.com)
 - ⚡ Fun fact: I also run a Motivational Blog[Saaltysugar][Saaltysugar]
 
 
